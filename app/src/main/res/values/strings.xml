@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="purchaseprice">Purchase Price:</string>
+    <string name="downpayment">Down Payment:</string>
+    <string name="interestrate">Interest Rate:</string>
+    <string name="interestratenum" />
+    <string name="customloan">Loan Duration:</string>
+    <string name="monthlypayment">Monthly Payment</string>
+    <string name="tenyears">10 Years:</string>
+    <string name="twentyyears">20 Years:</string>
+    <string name="thirtyyears">30 Years:</string>
+    <string name="tenyearsnum" />
+    <string name="twentyyearsnum" />
+    <string name="thirtyyearsnum" />
+    <string name="customamount">Custom Years:</string>
+    <string name="monthlypaymentcustom">Monthly Payment:</string>
+    <string name="monthlypaycustomnum" />
+    <string name="customamountnum">0</string>
+    <string name="downpaymentnum" />
+    <string name="displaypurchaseprice" />
+    <string name="purchasepricetextview">0</string>
+    <string name="downpaymenttextview">0</string>
+    <string name="interestratetextview">1</string>
+    <string name="custommonthlypayment">Custom Monthly Payment</string>
+    <string name="custompaymentview">0</string>
+</resources>
